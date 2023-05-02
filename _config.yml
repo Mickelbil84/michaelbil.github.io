@@ -228,6 +228,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-toc
   - jekyll-twitter-plugin
+  - jekyll-include-cache
   - jemoji
 
 # Sitemap settings
