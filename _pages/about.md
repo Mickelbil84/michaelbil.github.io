@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p> <strong>MSc Student</strong> @ Tel Aviv University | Robotics | AI | Software Development</p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 1656912235760.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>michaelmoshe@mail.tau.ac.il</p>
+    <p>Checkpoint 446, Tel Aviv University</p>
+    <p>Tel Aviv, Israel</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
