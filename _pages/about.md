@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>michaelmoshe@mail.tau.ac.il</p>
-    <p>Checkpoint 446, Tel Aviv University</p>
+    <p>Checkpoint 446, TAU</p>
     <p>Tel Aviv, Israel</p>
 
 news: true  # includes a list of news items
